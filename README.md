@@ -46,8 +46,11 @@ Design and implement a real-time Railway Performance Intelligence Lakehouse capa
 
 Data Sources
 
-[Data Source](https://wiki.openraildata.com/index.php/Train_Movement)
+* [Network Rail Open Data Platform](https://wiki.openraildata.com/index.php/Train_Movement) : This is a real-time API that generates train movement data from all train companies across UK. The following image shows the data description from the API.
+
 ![UK rail network](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/rail_data_description.png)
+
+* [Open Weather API](https://openweathermap.org/): Real-time weather data for any place in the world using the city name.
 
 ### Data Processing & Quality
 * Perform schema validation and enforcement
