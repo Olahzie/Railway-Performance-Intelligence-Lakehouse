@@ -79,19 +79,13 @@ Data Sources
 * Maintain reliable streaming recovery using checkpoints
 
 ### Reporting & Visualization
-* Deliver curated Gold tables for Power BI dashboards
+#### KPI
+
+* Deliver curated Gold tables for BI dashboards
 * Support operational, strategic, and reliability reporting
 * Provide near real-time visibility into railway performance
 
-### Deliverables
-* End-to-end Lakehouse Architecture
-* Streaming ETL Pipelines
-* Bronze, Silver, and Gold Delta Tables
-* Dimensional Data Model
-* Real-Time KPI Aggregations
-* Data Validation Framework
-* Power BI Dashboard
-* Project Documentation and SLA Design
+
 
 ### Expected Outcome
 
