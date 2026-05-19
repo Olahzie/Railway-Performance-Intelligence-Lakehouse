@@ -45,8 +45,9 @@ Design and implement a real-time Railway Performance Intelligence Lakehouse capa
 * Support late-arriving and duplicate events
 
 Data Sources
+
 [Data Source](https://wiki.openraildata.com/index.php/Train_Movement)
-[](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/rail_data_description.png)
+![UK rail network](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/rail_data_description.png)
 
 ### Data Processing & Quality
 * Perform schema validation and enforcement
