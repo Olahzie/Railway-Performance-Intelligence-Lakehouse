@@ -44,6 +44,8 @@ Design and implement a real-time Railway Performance Intelligence Lakehouse capa
 * Handle high-throughput streaming data reliably
 * Support late-arriving and duplicate events
 
+Data Sources
+
 ### Data Processing & Quality
 * Perform schema validation and enforcement
 * Deduplicate train movement events
