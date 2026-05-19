@@ -90,4 +90,4 @@ Design and implement a real-time Railway Performance Intelligence Lakehouse capa
 A production-ready Railway Performance Intelligence Lakehouse that transforms real-time train movement data into actionable operational insights, enabling railway stakeholders to improve punctuality, monitor disruptions, optimize network efficiency, and enhance overall service reliability through scalable real-time analytics.
 
 # Architecture Diagram
-
+https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Lakehouse%20Architecture.png
