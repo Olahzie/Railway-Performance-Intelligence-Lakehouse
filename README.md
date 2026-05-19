@@ -5,8 +5,8 @@ Real-time railway performance analytics platform built using the Databricks Lake
 This project ingests live train movement data, enriches it with weather and operational reference data, processes it through a Medallion Architecture (Bronze → Silver → Gold), and delivers real-time KPIs for railway operations, reliability monitoring, and performance analytics.
 
 
-# Problem Statement
-## Background
+## Problem Statement
+### Background
 
 Modern railway systems generate massive volumes of operational data every second from train movements, station events, schedules, route operations, and external environmental services such as weather systems. This data is highly dynamic, time-sensitive, and often arrives in semi-structured streaming formats, making it difficult for railway operators to monitor network performance, identify disruptions, and analyze operational efficiency in real time.
 
@@ -88,3 +88,6 @@ Design and implement a real-time Railway Performance Intelligence Lakehouse capa
 ### Expected Outcome
 
 A production-ready Railway Performance Intelligence Lakehouse that transforms real-time train movement data into actionable operational insights, enabling railway stakeholders to improve punctuality, monitor disruptions, optimize network efficiency, and enhance overall service reliability through scalable real-time analytics.
+
+# Architecture Diagram
+
