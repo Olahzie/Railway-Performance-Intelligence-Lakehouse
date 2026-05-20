@@ -79,11 +79,8 @@ Data Sources
 * Maintain reliable streaming recovery using checkpoints
 
 ### Reporting & Visualization
-#### KPI
 
-* Deliver curated Gold tables for BI dashboards
-* Support operational, strategic, and reliability reporting
-* Provide near real-time visibility into railway performance
+[Network Rail Open Data Platform]()
 
 
 
