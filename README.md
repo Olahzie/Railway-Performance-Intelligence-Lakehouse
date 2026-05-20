@@ -94,3 +94,17 @@ A production-ready Railway Performance Intelligence Lakehouse that transforms re
 
 # Architecture Diagram
 ![Railway Architecture](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Lakehouse%20Architecture.png)
+
+
+
+# Pipeline
+
+The pipeline uses a real-time Lakehouse architecture built with Kafka, Databricks, PySpark Structured Streaming, and Delta Lake.
+
+Streaming train movement and weather events are continuously ingested from Kafka into Bronze Delta tables. The data is then transformed in the Silver layer through schema enforcement, cleansing, deduplication, watermarking, and enrichment with weather, station, and operator reference data.
+
+Finally, the Gold layer aggregates the processed data into business-ready KPI tables containing metrics such as on-time performance, average delay, congestion index, train reliability index, and weather impact analysis for real-time dashboards and operational analytics.
+
+![Pipeline](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-3.png)
+
+
