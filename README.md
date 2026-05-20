@@ -64,7 +64,7 @@ Data Sources
 * Create optimized Gold KPI tables for analytics
 
 ### Operational Analytics
-* Generate KPIs such as:
+Generate KPIs such as:
 * On-time arrival percentage
 * Average delay
 * Severe delay rate
@@ -80,11 +80,11 @@ Data Sources
 
 ### Reporting & Visualization
 
-[BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-1.png)
+![BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-1.png)
 
-[BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-2.png)
+![BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-2.png)
 
-[BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-3.png)
+![BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-3.png)
 
 
 
