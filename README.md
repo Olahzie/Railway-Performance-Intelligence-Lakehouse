@@ -84,7 +84,6 @@ Generate KPIs such as:
 
 ![BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-2.png)
 
-![BI Dashboard](https://github.com/Olahzie/Railway-Performance-Intelligence-Lakehouse/blob/main/Dashboard%20BI-3.png)
 
 
 
